@@ -19,9 +19,9 @@ A simple list formatter for `textarea` fields.
 Place it in your HTML page as such:
 
 ```html
-<script src='lister.js'></script>
+<script src='lister.min.js'></script>
 
-<textarea></textarea>
+<textarea id='my_textarea_id'></textarea>
 
 <script>
   var msg = document.getElementById('my_textarea_id');
