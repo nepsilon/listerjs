@@ -8,7 +8,7 @@ A simple list formatter for `textarea` fields.
 
 * Auto format new lines with the previous line bullet style
 * Auto increment numeric list
-* Remove bullet when nothing was written on the line
+* Remove last bullet when nothing was written on the line
 * Zero dependencies &ndash; not even jQuery/Zepto
 * Insignificant size: only 67 lines of JavaScript, barely 0.5k minified and gzipped.
 * Works on Firefox, Chrome, Safari
